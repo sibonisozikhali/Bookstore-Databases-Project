@@ -1,5 +1,3 @@
-# Bookstore-Databases-Project
-
 # ShelfTrack: Bookstore Inventory Manager (Python + SQLite)
 
 ShelfTrack is a command-line application for managing a small bookstore's inventory. It stores books and their authors in a local SQLite database and lets you add, update, delete, search and view records from an interactive menu.
